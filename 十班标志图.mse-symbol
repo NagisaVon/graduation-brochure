@@ -1,0 +1,113 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: 菱形
+	combine: merge
+	point:
+		position: (0.5010526316,0.4421052632)
+		lock: free
+		line after: line
+	point:
+		position: (0.9252631579,0.4989473683)
+		lock: free
+		line after: line
+	point:
+		position: (0.5010526316,0.5557894737)
+		lock: free
+		line after: line
+	point:
+		position: (0.0768421053,0.4989473683)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 菱形
+	combine: merge
+	point:
+		position: (0.4989473684,0.0800000000)
+		lock: free
+		line after: line
+	point:
+		position: (0.5610526316,0.5021052632)
+		lock: free
+		line after: line
+	point:
+		position: (0.4989473684,0.9242105263)
+		lock: free
+		line after: line
+	point:
+		position: (0.4368421053,0.5021052632)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 椭圆形
+	combine: subtract
+	point:
+		position: (0.8547225613,0.4994736842)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.1933196780)
+		handle after: (0.0000000000,-0.1933196780)
+	point:
+		position: (0.4994943908,0.1494374602)
+		lock: size
+		line after: curve
+		handle before: (0.1961871110,0.0000000000)
+		handle after: (-0.1961871110,0.0000000000)
+	point:
+		position: (0.1442662204,0.4994736842)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.1933196780)
+		handle after: (0.0000000000,0.1933196780)
+	point:
+		position: (0.4994943908,0.8495099082)
+		lock: size
+		line after: curve
+		handle before: (-0.1961871110,0.0000000000)
+		handle after: (0.1961871110,0.0000000000)
+part:
+	type: shape
+	name: 多边形
+	combine: overlap
+	point:
+		position: (0.5000000000,0.0589473684)
+		lock: free
+		line after: line
+	point:
+		position: (0.7732360792,0.1432112767)
+		lock: free
+		line after: line
+	point:
+		position: (0.9421052632,0.3638170526)
+		lock: free
+		line after: line
+	point:
+		position: (0.9421052632,0.6365007878)
+		lock: free
+		line after: line
+	point:
+		position: (0.7732360792,0.8571065637)
+		lock: free
+		line after: line
+	point:
+		position: (0.5000000000,0.9413704719)
+		lock: free
+		line after: line
+	point:
+		position: (0.2267639208,0.8571065637)
+		lock: free
+		line after: line
+	point:
+		position: (0.0578947368,0.6365007878)
+		lock: free
+		line after: line
+	point:
+		position: (0.0578947368,0.3638170526)
+		lock: free
+		line after: line
+	point:
+		position: (0.2267639208,0.1432112767)
+		lock: free
+		line after: line
